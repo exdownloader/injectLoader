@@ -27,7 +27,7 @@ namespace script
         public static void Bootstrap()  //Hardcoded bootstrap method.
         {
             //Perform actions here.
-            new SomeNamespace.ExamplePluginKK().OnLevelWasLoaded(-1);   //Reload plugin code.
+            new SomeNamespace.ExamplePlugin().OnLevelWasLoaded(-1);   //Reload plugin code.
         }
     }
 }
