@@ -53,7 +53,11 @@ namespace SomeNamespace
 }
 ```
 
+### Build notes
+
+Requires the creation of an empty `Packages` folder in the project directory for Nuget to populate.
+
 ### Dependencies
 * IPA
 * dnlib
-* MSBuild.ILMerge.Task
+* MSBuild.ILMerge.Task  (Nuget)
