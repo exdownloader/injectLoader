@@ -1,5 +1,4 @@
 # injectLoader
-Runtime assembly reload for Unity
 Allows assemblies to be loaded repeatedly in the same session.
 
 ### Usage
